@@ -8,9 +8,13 @@ Code can be run by running each of the three attached jupyter notebooks individu
 Dependencies include:
 
 !pip install torch
+
 !pip install torchvision
+
 !pip install numpy
+
 !pip install jax
+
 !pip install jaxlib
 !pip install git+https://github.com/professorwug/diffusion-curvature
 !pip install pygsp
