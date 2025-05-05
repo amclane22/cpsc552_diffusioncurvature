@@ -16,10 +16,15 @@ Dependencies include:
 !pip install jax
 
 !pip install jaxlib
+
 !pip install git+https://github.com/professorwug/diffusion-curvature
+
 !pip install pygsp
+
 !pip install graphtools
+
 !pip install tqdm
+
 !pip install nbdev
 
 !pip install 'phate'
